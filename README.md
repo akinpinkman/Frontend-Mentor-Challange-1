@@ -1,3 +1,3 @@
-# Frontend-Mentor-Challange-1
+# Minecraft Landing Page
 
 [LIVEDEMO](https://akinpinkman.github.io/landing-page/)

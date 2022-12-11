@@ -1,3 +1,4 @@
 # Minecraft Landing Page
 
-[LIVEDEMO](https://akinpinkman.github.io/landing-page/)
+Very simple and responsive landing page with Minecraft theme.
+[LIVEDEMO](https://akinpinkman.github.io/Minecraft-theme-landing-page/)
